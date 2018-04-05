@@ -1,0 +1,2 @@
+# GOTO5SLAVE
+IR controller for GOTO5MASTER
